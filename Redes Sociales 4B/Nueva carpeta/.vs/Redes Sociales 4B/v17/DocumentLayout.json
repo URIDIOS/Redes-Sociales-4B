@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cisco01\\Downloads\\practicas de las apis\\Redes Sociales 4B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8130FA81-CE00-4204-AFB9-FFB296852E94}|Redes Sociales 4B.csproj|c:\\users\\cisco01\\downloads\\practicas de las apis\\redes sociales 4b\\controllers\\managecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8130FA81-CE00-4204-AFB9-FFB296852E94}|Redes Sociales 4B.csproj|solutionrelative:controllers\\managecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8130FA81-CE00-4204-AFB9-FFB296852E94}|Redes Sociales 4B.csproj|C:\\Users\\cisco01\\Downloads\\practicas de las apis\\Redes Sociales 4B\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8130FA81-CE00-4204-AFB9-FFB296852E94}|Redes Sociales 4B.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8130FA81-CE00-4204-AFB9-FFB296852E94}|Redes Sociales 4B.csproj|C:\\Users\\cisco01\\Downloads\\practicas de las apis\\Redes Sociales 4B\\app_start\\startup.auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8130FA81-CE00-4204-AFB9-FFB296852E94}|Redes Sociales 4B.csproj|solutionrelative:app_start\\startup.auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\cisco01\\Downloads\\practicas de las apis\\Redes Sociales 4B\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\cisco01\\Downloads\\practicas de las apis\\Redes Sociales 4B\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T02:22:21.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManageController.cs",
+              "DocumentMoniker": "C:\\Users\\cisco01\\Downloads\\practicas de las apis\\Redes Sociales 4B\\Controllers\\ManageController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ManageController.cs",
+              "ToolTip": "C:\\Users\\cisco01\\Downloads\\practicas de las apis\\Redes Sociales 4B\\Controllers\\ManageController.cs",
+              "RelativeToolTip": "Controllers\\ManageController.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAuwIQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T02:22:21.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.Auth.cs",
+              "DocumentMoniker": "C:\\Users\\cisco01\\Downloads\\practicas de las apis\\Redes Sociales 4B\\App_Start\\Startup.Auth.cs",
+              "RelativeDocumentMoniker": "App_Start\\Startup.Auth.cs",
+              "ToolTip": "C:\\Users\\cisco01\\Downloads\\practicas de las apis\\Redes Sociales 4B\\App_Start\\Startup.Auth.cs",
+              "RelativeToolTip": "App_Start\\Startup.Auth.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwD0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T02:22:22.001Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
